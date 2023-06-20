@@ -1,7 +1,7 @@
 <h1 align="center">Fullstack & Senior Blockchain Specialist</h1>
 
 ## Hi there! :smile: 
-This is Davincci, nice to meet you.<br>
+This is ChiBBIT, nice to meet you.<br>
 Problem-solving software engineer with team-oriented attitude, excellent communication and organizational skills.<br>
 Strong decision maker with more than 15 years of experience in software engineering and Blockchain development. <br>
 Considered effective coach and mentor and committed to leading exceptionally gifted teams. <br>
