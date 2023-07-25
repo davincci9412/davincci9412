@@ -9,7 +9,7 @@ Ready to work closely with both teams and customers to identify most efficient a
 
 ### My Technologies :books:
 :heavy_check_mark: Great knowledge in Blockchain & Cryptocurrency projects<br>
-:heavy_check_mark: Good experience in MERN stack, MEAN stack projects<br>
+:heavy_check_mark: Good experience in frontend development with React.js, Next.js, Angular.js, Vue.js<br>
 :heavy_check_mark: Strong experience in smart contract development with Solidity and RUST<br>
 :heavy_check_mark: Davincci loves to use remix IDE, Truffle<br>
 :heavy_check_mark: Very familiar with Web3 and API services like Coingecko,Moralis<br>
