@@ -1,7 +1,7 @@
 <h1 align="center">Fullstack Engineer</h1>
 
 ## Hi there! :smile: 
-This is REO, nice to meet you.<br>
+This is CodeMania, nice to meet you.<br>
 Problem-solving software engineer with team-oriented attitude, excellent communication and organizational skills.<br>
 Strong decision maker with more than 15 years of experience in software engineering(Website, Mobile App development) <br>
 Considered effective coach and mentor and committed to leading exceptionally gifted teams. <br>
